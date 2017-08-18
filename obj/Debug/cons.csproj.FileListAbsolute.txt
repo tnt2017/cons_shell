@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\cons\cons\bin\Debug\cons.exe.config
+c:\users\user\documents\visual studio 2015\Projects\cons\cons\bin\Debug\cons.exe
+c:\users\user\documents\visual studio 2015\Projects\cons\cons\bin\Debug\cons.pdb
+c:\users\user\documents\visual studio 2015\Projects\cons\cons\obj\Debug\cons.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\cons\cons\obj\Debug\cons.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\cons\cons\obj\Debug\cons.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\cons\cons\obj\Debug\cons.exe
+c:\users\user\documents\visual studio 2015\Projects\cons\cons\obj\Debug\cons.pdb
